@@ -1,0 +1,14 @@
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\bin\Debug\net8.0\Interface Demo.exe
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\bin\Debug\net8.0\Interface Demo.deps.json
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\bin\Debug\net8.0\Interface Demo.runtimeconfig.json
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\bin\Debug\net8.0\Interface Demo.dll
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\bin\Debug\net8.0\Interface Demo.pdb
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.AssemblyInfoInputs.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.AssemblyInfo.cs
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.dll
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\refint\Interface Demo.dll
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.pdb
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\Interface Demo.genruntimeconfig.cache
+C:\Users\Ronald Benson\Desktop\Uni Stuff\LEVEL 300\2nd Sem\DCIT318- Programming II\Projects\Assignment 2\DCIT318-Assignment2-10965006\Interface Demo\Interface Demo\obj\Debug\net8.0\ref\Interface Demo.dll
